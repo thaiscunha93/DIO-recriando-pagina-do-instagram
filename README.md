@@ -9,5 +9,5 @@ ________________________________________________________________________________
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Visual Studio Code
-CSS
-HTML5
+# CSS
+# HTML5
